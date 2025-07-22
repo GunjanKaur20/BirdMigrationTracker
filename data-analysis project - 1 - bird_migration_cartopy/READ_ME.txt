@@ -24,6 +24,5 @@ Order of Project subparts :
 5.bird_migration_cartographic.py
 
 
-I did this project to accompany my learnings from HarvardX course - PH526x Using Python for Research.
 
-- Amartya Ranjan Saikia (amartyasaikia@acm.org/ar5saikia@gmail.com)
+
