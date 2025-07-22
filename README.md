@@ -1,4 +1,11 @@
 # 🐦 Bird Migration Tracker
+![GitHub repo size](https://img.shields.io/github/repo-size/GunjanKaur20/BirdMigrationTracker?color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/GunjanKaur20/BirdMigrationTracker?color=green)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/GunjanKaur20/BirdMigrationTracker)
+![GitHub stars](https://img.shields.io/github/stars/GunjanKaur20/BirdMigrationTracker?style=social)
+![GitHub forks](https://img.shields.io/github/forks/GunjanKaur20/BirdMigrationTracker?style=social)
+![Python](https://img.shields.io/badge/Python-3.8+-yellow.svg)
+![License](https://img.shields.io/github/license/GunjanKaur20/BirdMigrationTracker)
 
 ![Bird Migration](https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif)
 
@@ -81,4 +88,44 @@ BirdMigrationTracker/
 git clone https://github.com/GunjanKaur20/BirdMigrationTracker.git
 cd BirdMigrationTracker
 
+📂 View Outputs
+Generated maps and graphs will appear in the outputs/ folder.
+
+🔮 Future Improvements
+✅ Integrate real-time migration APIs
+✅ Build a web dashboard using Plotly Dash or Streamlit
+✅ Enhance map styling and add animation over time
+✅ Add data upload interface for custom datasets
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+Feel free to fork the repo and submit a pull request.
+
+Steps to contribute:
+
+Fork the repository
+
+Create a feature branch:
+
+bash
+Copy
+Edit
+git checkout -b feature-name
+Commit your changes:
+
+bash
+Copy
+Edit
+git commit -m "Added a new feature"
+Push to your branch and create a pull request
+
+📜 License
+This project is licensed under the MIT License – see the LICENSE file for details.
+
+📧 Contact
+👩‍💻 Author: Gunjan Kaur
+📩 Email: kaurgunjan16@gmail.com
+🔗 GitHub: GunjanKaur20
+
+⭐ If you like this project, please give it a star on GitHub! ⭐
 
