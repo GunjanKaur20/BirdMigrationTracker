@@ -26,10 +26,11 @@ This project uses powerful Python libraries for data processing and geospatial v
 
 🖼️ Screenshots & Demo
 Here are some previews of the project in action.
-(Replace these links with your actual screenshots or GIFs later!)
+
 
 🌍 Migration Map
-Migration Map (C:\Users\Mankiran\Desktop\Bird Migration Trackrer\Data-Analysis\assets\Migration Map.png)
+Migration Map 
+![alt text](<Migration Map.png>)
 
 📈 Data Analysis Graphs
 Data Analysis (C:\Users\Mankiran\Desktop\Bird Migration Trackrer\Data-Analysis\assets\Dat Analysis.png)
