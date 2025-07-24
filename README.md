@@ -28,15 +28,15 @@ This project uses powerful Python libraries for data processing and geospatial v
 Here are some previews of the project in action.
 
 
-🌍 Migration Map
-Migration Map 
+🌍 Migration Map : Visualizing bird migration routes
+
 ![alt text](<Migration Map.png>)
 
-📈 Data Analysis Graphs
-Data Analysis (C:\Users\Mankiran\Desktop\Bird Migration Trackrer\Data-Analysis\assets\Dat Analysis.png)
+📈 Data Analysis Graph : Seasonal Migration data analysis
+![alt text](image.png)
 
 ✨ Interactive Visualization
-Interactive  Demo (C:\Users\Mankiran\Desktop\Bird Migration Trackrer\Data-Analysis\assets\Interactive Visualization.png)
+![alt text](image-1.png)
 
 ⚙️ Tech Stack
 Language: Python 🐍
@@ -47,6 +47,7 @@ pandas – for data cleaning & manipulation
 matplotlib / seaborn – for plotting & visualization
 cartopy – for geospatial mapping
 jupyter notebook – for experimentation and exploration
+
 📂 Project Structure
 BirdMigrationTracker/ │ ├── data/ # Datasets used for analysis ├── notebooks/ # Jupyter notebooks for exploration ├── src/ # Core Python scripts │ ├── data_loader.py │ ├── migration_analysis.py │ ├── visualization.py ├── outputs/ # Generated visualizations and reports │ ├── requirements.txt # Python dependencies ├── README.md # Project documentation └── LICENSE # License file
 
