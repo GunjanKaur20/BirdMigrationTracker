@@ -1,0 +1,75 @@
+# -----------------------------
+# Python cache and bytecode
+# -----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# -----------------------------
+# Virtual environments
+# -----------------------------
+venv/
+ENV/
+env/
+.venv/
+.env/
+
+# -----------------------------
+# Jupyter Notebook checkpoints
+# -----------------------------
+.ipynb_checkpoints
+
+# -----------------------------
+# Python egg files
+# -----------------------------
+*.egg
+*.egg-info/
+dist/
+build/
+
+# -----------------------------
+# Logs and database
+# -----------------------------
+*.log
+*.sqlite3
+*.db
+
+# -----------------------------
+# OS-specific files
+# -----------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -----------------------------
+# IDE / Editor specific
+# -----------------------------
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# -----------------------------
+# Environment / secrets
+# -----------------------------
+*.env
+*.secret
+*.key
+*.pem
+
+# -----------------------------
+# Backup / temporary files
+# -----------------------------
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# -----------------------------
+# Outputs (optional)
+# -----------------------------
+outputs/
+assets/__pycache__/
