@@ -1,13 +1,22 @@
-README
-🐦 Bird Migration Tracker
-GitHub repo size GitHub last commit GitHub commit activity GitHub stars GitHub forks Python License
 
-Bird Migration
+🐦 Bird Migration Tracker
+
+![GitHub repo size](https://img.shields.io/github/repo-size/GunjanKaur20/BirdMigrationTracker?color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/GunjanKaur20/BirdMigrationTracker?color=green)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/GunjanKaur20/BirdMigrationTracker)
+![GitHub stars](https://img.shields.io/github/stars/GunjanKaur20/BirdMigrationTracker?style=social)
+![GitHub forks](https://img.shields.io/github/forks/GunjanKaur20/BirdMigrationTracker?style=social)
+![Python](https://img.shields.io/badge/Python-3.8+-yellow.svg)
+![License](https://img.shields.io/github/license/GunjanKaur20/BirdMigrationTracker)
+
+
 
 Bird Migration Tracker is an interactive data analysis project that visualizes and explores bird migration patterns across regions and seasons.
 This project uses powerful Python libraries for data processing and geospatial visualization, making migration data easy to understand and visually appealing.
 
+
 📌 Table of Contents
+
 ✨ Features
 🖼️ Screenshots & Demo
 ⚙️ Tech Stack
@@ -17,12 +26,16 @@ This project uses powerful Python libraries for data processing and geospatial v
 🤝 Contributing
 📜 License
 📧 Contact
+
+
+
 ✨ Features
 ✅ Geospatial Visualization – Plot migration routes on interactive maps
 ✅ Data Analysis – Clean and process real-world migration datasets
 ✅ Seasonal Trends – Identify and visualize patterns across seasons
 ✅ Customizable – Easy to extend with new data or visual styles
 ✅ Modular Codebase – Clean Python modules for each functionality
+
 
 🖼️ Screenshots & Demo
 Here are some previews of the project in action.
@@ -37,6 +50,7 @@ Here are some previews of the project in action.
 
 ✨ Interactive Visualization
 ![alt text](image-1.png)
+
 
 ⚙️ Tech Stack
 Language: Python 🐍
